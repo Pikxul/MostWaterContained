@@ -1,2 +1,1 @@
-# MostWaterContained
-https://s3-lc-upload.s3.amazonaws.com/uploads/2018/07/17/question_11.jpg
+![image](https://github.com/user-attachments/assets/37563c50-ea83-4129-9054-94a18c068b3d)
